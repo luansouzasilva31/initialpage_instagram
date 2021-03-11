@@ -1,5 +1,5 @@
 # initialpage_instagram
-###Código HTML e CSS para construção da página inicial do instagram.
+### Código HTML e CSS para construção da página inicial do instagram.
 
 Esse código constrói uma versão muito parecida com a página inicial de login do Instagram.
 
